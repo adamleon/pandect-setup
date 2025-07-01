@@ -49,7 +49,7 @@ After completing all steps:
 - Hostname is set to pandect
 - ROS 2 (Humble or Jazzy) is installed and ready
 - Event camera libraries and udev rules are configured
-- User adamleon is ready to develop
+- Users are ready to develop
 
 ### 🧰 Notes
 - These scripts assume a fresh Ubuntu 22.04 (for Humble) or 24.04 (for Jazzy)
